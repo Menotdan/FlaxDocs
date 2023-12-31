@@ -433,6 +433,18 @@
 ## [macOS](platforms/mac.md)
 ## [iOS](platforms/ios.md)
 
+# [PLCT](plct/index.md)
+## [PLCT Graph](plct/graph/index.md)
+### [Spawn Prefab At Points](plct/graph/spawn-prefab-at-points.md)
+### [Filter By Random](plct/graph/filter-by-random.md)
+### [Filter By Normal](plct/graph/filter-by-normal.md)
+### [Set Points Transform](plct/graph/set-points-transform.md)
+### [Transform Points](plct/graph/transform-points.md)
+### [Debug Draw Points](plct/graph/debug-draw-points.md)
+### [Sample Surface](plct/graph/sample-surface.md)
+### [Get Terrain Surfaces](plct/graph/get-terrain-surfaces.md)
+### [Get Box Collider Surfaces](plct/graph/get-box-collider-surfaces.md)
+
 # [Contributing](contributing/index.md)
 ## [Feature Requests](contributing/feature-requests.md)
 ## [Report a bug](contributing/report-a-bug.md)
